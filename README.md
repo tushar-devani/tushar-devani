@@ -22,16 +22,16 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <a href="https://github.com/tnd7600">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tnd7600&show_icons=true&theme=react&bg_color=0D1117&title_color=3DDCFF&icon_color=3DDCFF&hide_border=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnd7600&layout=compact&theme=react&bg_color=0D1117&title_color=3DDCFF&hide_border=true"/>
+  <a href="https://github.com/tushar-devani">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tushar-devani&show_icons=true&theme=react&bg_color=0D1117&title_color=3DDCFF&icon_color=3DDCFF&hide_border=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-devani&layout=compact&theme=react&bg_color=0D1117&title_color=3DDCFF&hide_border=true"/>
   </a>
 </p>
 
 ## 🚀 TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mysql,sqlite,docker,git&theme=dark&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,c,cpp,postgresql,mysql,sqlite,docker,git&theme=dark&perline=5"/>
 </p>
 
 ## ⚡ TOOLS & TECHNOLOGIES
@@ -48,7 +48,7 @@
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1200px; margin: 20px auto;">
 
 <!-- Flight Booking System -->
-<a href="https://github.com/tnd7600/flight-booking-system" target="_blank" style="text-decoration: none;">
+<a href="https://github.com/tushar-devani/flight-booking-system" target="_blank" style="text-decoration: none;">
   <div style="background: #1a1b27; padding: 20px; border-radius: 12px; border: 1px solid #2d2d2d;">
     <img src="https://img.shields.io/badge/✈️_Flight_Booking_System-1a1b27?style=for-the-badge&logo=airplane&logoColor=3DDCFF"/>
     <p style="color: #fff; font-size: 14px;">Developed a backend system for flight bookings using FastAPI and JWT for authentication.</p>
@@ -61,7 +61,7 @@
 </a>
 
 <!-- Blog API -->
-<a href="https://github.com/tnd7600/blog-api" target="_blank" style="text-decoration: none;">
+<a href="https://github.com/tushar-devani/blog-api" target="_blank" style="text-decoration: none;">
   <div style="background: #1a1b27; padding: 20px; border-radius: 12px; border: 1px solid #2d2d2d;">
     <img src="https://img.shields.io/badge/📝_Blog_API-1a1b27?style=for-the-badge&logo=hashnode&logoColor=3DDCFF"/>
     <p style="color: #fff; font-size: 14px;">RESTful API for blog management with JWT auth, CRUD, filtering, and pagination features.</p>
@@ -75,13 +75,13 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/tnd7600?tab=repositories" target="_blank">
+  <a href="https://github.com/tushar-devani?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/View_All_Projects-3DDCFF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
 ## 📈 CONTRIBUTION GRAPH
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tnd7600&custom_title=Contribution%20Graph&bg_color=0D1117&color=3DDCFF&line=3DDCFF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-devani&custom_title=Contribution%20Graph&bg_color=0D1117&color=3DDCFF&line=3DDCFF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 ## 🤝 LET'S CONNECT
 <p align="center">
