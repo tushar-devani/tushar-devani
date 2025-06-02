@@ -48,7 +48,7 @@
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1200px; margin: 20px auto;">
 
 <!-- Flight Booking System -->
-<a href="https://github.com/tushar-devani/flight-booking-system" target="_blank" style="text-decoration: none;">
+<a href="https://github.com/tushar-devani/Flight_Booking-Basic-.git" target="_blank" style="text-decoration: none;">
   <div style="background: #1a1b27; padding: 20px; border-radius: 12px; border: 1px solid #2d2d2d;">
     <img src="https://img.shields.io/badge/✈️_Flight_Booking_System-1a1b27?style=for-the-badge&logo=airplane&logoColor=3DDCFF"/>
     <p style="color: #fff; font-size: 14px;">Developed a backend system for flight bookings using FastAPI and JWT for authentication.</p>
@@ -61,7 +61,7 @@
 </a>
 
 <!-- Blog API -->
-<a href="https://github.com/tushar-devani/blog-api" target="_blank" style="text-decoration: none;">
+<a href="https://github.com/tushar-devani/User-Authentication-System.git" target="_blank" style="text-decoration: none;">
   <div style="background: #1a1b27; padding: 20px; border-radius: 12px; border: 1px solid #2d2d2d;">
     <img src="https://img.shields.io/badge/📝_Blog_API-1a1b27?style=for-the-badge&logo=hashnode&logoColor=3DDCFF"/>
     <p style="color: #fff; font-size: 14px;">RESTful API for blog management with JWT auth, CRUD, filtering, and pagination features.</p>
